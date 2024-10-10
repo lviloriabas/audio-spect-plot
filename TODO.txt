@@ -1,0 +1,11 @@
+Hecho:
+* Eliminar audios con información irrelevantes y anotarlos
+* Solucionar linea de media que no llega hasta el final
+* Gráficar la cantidad que quiera de audios, hasta el máximo del csv
+
+Por hacer:
+- Ver cómo procesar data para entrenar modelo
+- Solo gráficar audios en donde exista el segmento que se quiera
+
+Opcional:
+(-) Agregar columna de duración al csv
