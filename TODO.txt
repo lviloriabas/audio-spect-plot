@@ -6,6 +6,7 @@ Hecho:
 Por hacer:
 - Ver cómo procesar data para entrenar modelo
 - Solo gráficar audios en donde exista el segmento que se quiera
+- Usar funciones de celdas anteriores para las otras gráficas (o serparar en varias celdas)
 
 Opcional:
 (-) Agregar columna de duración al csv
